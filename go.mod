@@ -1,3 +1,3 @@
-module github.com/Faithjohnsonpage/go_tutorial/workspace_lib
+module github.com/Faithjohnsonpage/workspace_lib
 
 go 1.25.5
